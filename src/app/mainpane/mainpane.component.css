@@ -1,0 +1,9 @@
+ 
+  [role="main"] {
+    padding-top: 48px; /* Space for fixed navbar */
+    
+  }
+  app-mainpane{
+    width: 100%;
+  }
+  
